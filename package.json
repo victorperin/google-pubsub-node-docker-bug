@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "docker:test": "docker build -t google-pubsub-node-docker-bug . && docker run google-pubsub-node-docker-bug npm test",
     "test": "mocha test.js"
   },
   "author": "",
