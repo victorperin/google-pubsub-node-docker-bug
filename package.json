@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "docker:test": "docker build -t google-pubsub-node-docker-bug . && docker run google-pubsub-node-docker-bug npm test",
+    "docker-alpine:test": "docker build -f Dockerfile-alpine -t google-pubsub-node-docker-bug-alpine . && docker run google-pubsub-node-docker-bug-alpine npm test",
     "test": "mocha test.js"
   },
   "author": "",
