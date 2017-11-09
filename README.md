@@ -5,6 +5,8 @@ This bug occurs only inside a docker container running NodeJS Alpine version.
 ## Problem
 The program throws an `Segmentation fault (core dumped)` error.
 
+
+## Executing
 To run the test outside docker, you must run:
 ```
 npm run test
