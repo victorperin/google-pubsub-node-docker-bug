@@ -16,3 +16,5 @@ To reproduce the bug, inside a alpine container, you must run:
 ```
 npm run docker-alpine:test
 ```
+
+[![asciicast](https://asciinema.org/a/raNIqqp9mtExOytnjzTP3u5OP.png)](https://asciinema.org/a/raNIqqp9mtExOytnjzTP3u5OP)
