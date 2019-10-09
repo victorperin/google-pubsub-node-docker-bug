@@ -22,4 +22,4 @@ To reproduce the bug, inside a alpine container, you must run:
 npm run docker-alpine:test
 ```
 
-[![asciicast](https://asciinema.org/a/raNIqqp9mtExOytnjzTP3u5OP.png)](https://asciinema.org/a/raNIqqp9mtExOytnjzTP3u5OP)
+[![asciicast](https://asciinema.org/a/raNIqqp9mtExOytnjzTP3u5OP.png)](https://asciinema.org/a/raNIqqp9mtExOytnjzTP3u5OP) [![Greenkeeper badge](https://badges.greenkeeper.io/victorperin/google-pubsub-node-docker-bug.svg)](https://greenkeeper.io/)
